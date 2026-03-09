@@ -3,9 +3,9 @@ using UnityEngine;
 public class ScoreViaButton : MonoBehaviour
 {
     [SerializeField]
-    private int _ButtonScore;
+    public int _ButtonScore;
 
-    private ScoreUP ScoreUP;
+    public ScoreUP ScoreUP;
    
 
     private void Awake()

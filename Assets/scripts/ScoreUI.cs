@@ -1,3 +1,5 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
@@ -17,6 +19,6 @@ public class NewMonoBehaviourScript : MonoBehaviour
     
     public void UpdateScore(ScoreViaButton ScoreViaButton)
     {
-        ScoreText.text = $"Score:{ScoreViaButton.Score}";
+        ScoreText.text = $"Score:{ScoreViaButton.ScoreUP}";
     }
 }
