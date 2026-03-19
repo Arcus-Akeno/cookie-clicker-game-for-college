@@ -1,13 +1,15 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.UI;
 
 public class clicker : MonoBehaviour
 {
     public TMPro.TextMeshProUGUI text;
     public int Gem;
     public GameObject GemCounter;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+   
    public void click() 
    {
         Gem += 1;
@@ -17,4 +19,6 @@ public class clicker : MonoBehaviour
 
 
    }
+
+   
 }
