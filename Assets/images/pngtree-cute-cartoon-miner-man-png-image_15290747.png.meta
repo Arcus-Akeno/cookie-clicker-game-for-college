@@ -1,0 +1,3263 @@
+fileFormatVersion: 2
+guid: 1a9f940092fe0ca42acb0910ba447fb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2049960111329388015
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_0
+  - first:
+      213: 7721971433065791109
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_1
+  - first:
+      213: 599702734445905212
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_2
+  - first:
+      213: 4143990198657264257
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_3
+  - first:
+      213: -7988943267531327240
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_4
+  - first:
+      213: -3385629388629276436
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_5
+  - first:
+      213: -7569384201093299134
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_6
+  - first:
+      213: -597330110462121571
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_7
+  - first:
+      213: -8671204174533644016
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_8
+  - first:
+      213: -2189203050876276605
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_9
+  - first:
+      213: 1106688582276298999
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_10
+  - first:
+      213: -8024087117122703331
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_11
+  - first:
+      213: -2568294091536793413
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_12
+  - first:
+      213: -1821608537243091817
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_13
+  - first:
+      213: -2321232846543074458
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_14
+  - first:
+      213: 9170591699954709153
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_15
+  - first:
+      213: -4325714167774276033
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_16
+  - first:
+      213: 3632623871281992069
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_17
+  - first:
+      213: -6634572275811069980
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_18
+  - first:
+      213: 560434506082332077
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_19
+  - first:
+      213: 7421272786659223560
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_20
+  - first:
+      213: 6629128196170753689
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_21
+  - first:
+      213: 4659470907240552388
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_22
+  - first:
+      213: -2599900125567496936
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_23
+  - first:
+      213: 2167792731046281113
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_24
+  - first:
+      213: 7444797870875647334
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_25
+  - first:
+      213: -4371600631625306912
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_26
+  - first:
+      213: -4764514265959186071
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_27
+  - first:
+      213: -3723096515012045785
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_28
+  - first:
+      213: 2612994487761641848
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_29
+  - first:
+      213: 5249994740602817194
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_30
+  - first:
+      213: 1401926191842401836
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_31
+  - first:
+      213: -8129132540573290782
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_32
+  - first:
+      213: -5388157678609886012
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_33
+  - first:
+      213: 386735639297262090
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_34
+  - first:
+      213: -5957711125680031682
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_35
+  - first:
+      213: 1496472445589208202
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_36
+  - first:
+      213: -8295256425022776975
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_37
+  - first:
+      213: -1705933083121890804
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_38
+  - first:
+      213: -6635754066324904341
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_39
+  - first:
+      213: 5366141942687533749
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_40
+  - first:
+      213: -4440164019021603994
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_41
+  - first:
+      213: 1696542008187201175
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_42
+  - first:
+      213: -5306323071197769636
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_43
+  - first:
+      213: 1603723290041409957
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_44
+  - first:
+      213: -8999379125904816067
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_45
+  - first:
+      213: 6791508849187586418
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_46
+  - first:
+      213: -9219748090070876936
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_47
+  - first:
+      213: 1957841965823710391
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_48
+  - first:
+      213: -6288227786490853690
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_49
+  - first:
+      213: 6006776055373470752
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_50
+  - first:
+      213: 7372881872115098400
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_51
+  - first:
+      213: -4692463422460388035
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_52
+  - first:
+      213: 8552038195856602675
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_53
+  - first:
+      213: 8557737288924219792
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_54
+  - first:
+      213: 3750221793252987254
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_55
+  - first:
+      213: 8383080583856980605
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_56
+  - first:
+      213: 1015424985405252935
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_57
+  - first:
+      213: 78130401386288656
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_58
+  - first:
+      213: -7537573309469412311
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_59
+  - first:
+      213: -7845161102559761457
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_60
+  - first:
+      213: 1007560649675497420
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_61
+  - first:
+      213: 8323976165175110943
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_62
+  - first:
+      213: -6336199064176270243
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_63
+  - first:
+      213: 1671522290449679106
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_64
+  - first:
+      213: -8102366161790537751
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_65
+  - first:
+      213: 8098644886957050739
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_66
+  - first:
+      213: -5521329497775212715
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_67
+  - first:
+      213: 4613134364454864689
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_68
+  - first:
+      213: -358739582642444103
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_69
+  - first:
+      213: 4500117166001397676
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_70
+  - first:
+      213: -5936559252526027386
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_71
+  - first:
+      213: 4193929269812498186
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_72
+  - first:
+      213: -4028451685610132224
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_73
+  - first:
+      213: -8398884407650125880
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_74
+  - first:
+      213: -9171092299420239245
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_75
+  - first:
+      213: -3404866322038401872
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_76
+  - first:
+      213: -7569660859451956613
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_77
+  - first:
+      213: 8855977715391866178
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_78
+  - first:
+      213: 4647919401159579651
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_79
+  - first:
+      213: 7388013646042572228
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_80
+  - first:
+      213: -3957885799441790701
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_81
+  - first:
+      213: 1489086743438863939
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_82
+  - first:
+      213: -7593541603762782107
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_83
+  - first:
+      213: -3177701958811199008
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_84
+  - first:
+      213: -3295794163842497945
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_85
+  - first:
+      213: 9011562401476271784
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_86
+  - first:
+      213: -1144279133466163353
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_87
+  - first:
+      213: 5875254088407855771
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_88
+  - first:
+      213: 425737120731793807
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_89
+  - first:
+      213: 7135714831425511134
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_90
+  - first:
+      213: -5971491418691236088
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_91
+  - first:
+      213: -922316699351419166
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_92
+  - first:
+      213: -3719303186512280242
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_93
+  - first:
+      213: -7393505671255448951
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_94
+  - first:
+      213: 594486035790315297
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_95
+  - first:
+      213: -6858926631875102222
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_96
+  - first:
+      213: -897646478241389327
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_97
+  - first:
+      213: -1615563045842924304
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_98
+  - first:
+      213: -5928839543573821078
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_99
+  - first:
+      213: -4598914151025556536
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_100
+  - first:
+      213: -5907905099640570353
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_101
+  - first:
+      213: 6469652248715688687
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_102
+  - first:
+      213: 8007089600187741950
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_103
+  - first:
+      213: 3969377072308242490
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_104
+  - first:
+      213: -8304250814402489106
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_105
+  - first:
+      213: -5432019342368874299
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_106
+  - first:
+      213: 118004619683958101
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_107
+  - first:
+      213: 4702752534153082141
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_108
+  - first:
+      213: 7983256890412365621
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_109
+  - first:
+      213: -7024052833624824468
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_110
+  - first:
+      213: 1210090446511607068
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_111
+  - first:
+      213: -3014779291188752471
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_112
+  - first:
+      213: 8566890764341106383
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_113
+  - first:
+      213: -8757845683868748912
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_114
+  - first:
+      213: 8729261298514968698
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_115
+  - first:
+      213: -384781885820818167
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_116
+  - first:
+      213: -5392145148294859216
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_117
+  - first:
+      213: -5357181011809905266
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_118
+  - first:
+      213: -1831984138338072750
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_119
+  - first:
+      213: 983650499250808745
+    second: pngtree-cute-cartoon-miner-man-png-image_15290747_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2037
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11add70d3241d83e0800000000000000
+      internalID: -2049960111329388015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2157
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58eb9990b14f92b60800000000000000
+      internalID: 7721971433065791109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2181
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c358a79a572925800800000000000000
+      internalID: 599702734445905212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 1344
+        height: 2284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18aaaaf3129628930800000000000000
+      internalID: 4143990198657264257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_4
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2037
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8fb08ec62912190800000000000000
+      internalID: -7988943267531327240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_5
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2157
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce801a54204d301d0800000000000000
+      internalID: -3385629388629276436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_6
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2181
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24441656c2524f690800000000000000
+      internalID: -7569384201093299134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_7
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2188
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99a248ed6bd5b7f0800000000000000
+      internalID: -597330110462121571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2099
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011b90aceb1b9a780800000000000000
+      internalID: -8671204174533644016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2136
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38071539c636e91e0800000000000000
+      internalID: -2189203050876276605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_10
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 2099
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f83f8fe66fbb5f00800000000000000
+      internalID: 1106688582276298999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_11
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 2136
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10fc19c747b4a090800000000000000
+      internalID: -8024087117122703331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2038
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0073391269b5cd0800000000000000
+      internalID: -2568294091536793413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2069
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c7ec9cfa858b6e0800000000000000
+      internalID: -1821608537243091817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_14
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2038
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bc4d4460359cfd0800000000000000
+      internalID: -2321232846543074458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_15
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2069
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a232ff209c744f70800000000000000
+      internalID: 9170591699954709153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_16
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1953
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3690fd02e9f7f3c0800000000000000
+      internalID: -4325714167774276033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1705
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5811e5a1a2ca96230800000000000000
+      internalID: 3632623871281992069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_18
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 1953
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef40a7aaa34de3a0800000000000000
+      internalID: -6634572275811069980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_19
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1705
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dada8e6c63017c700800000000000000
+      internalID: 560434506082332077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1877
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808a816a748adf660800000000000000
+      internalID: 7421272786659223560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1902
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996a847c8f46ffb50800000000000000
+      internalID: 6629128196170753689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_22
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1877
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7175b6a14c9a040800000000000000
+      internalID: 4659470907240552388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_23
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1902
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d4e045c9c4bebd0800000000000000
+      internalID: -2599900125567496936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1819
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fffa0e00c851e10800000000000000
+      internalID: 2167792731046281113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1857
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d9026283c315760800000000000000
+      internalID: 7444797870875647334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_26
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1819
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eca9142364f453c0800000000000000
+      internalID: -4371600631625306912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_27
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1857
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961c832c48b01edb0800000000000000
+      internalID: -4764514265959186071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1759
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72456360277e45cc0800000000000000
+      internalID: -3723096515012045785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1790
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871261374a8334420800000000000000
+      internalID: 2612994487761641848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_30
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1760
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaacc42a66abbd840800000000000000
+      internalID: 5249994740602817194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1436
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e151a9174a47310800000000000000
+      internalID: 1401926191842401836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_32
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1555
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee6f0b36058f2f80800000000000000
+      internalID: -8129132540573290782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_33
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1580
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c41aa4932b6935b0800000000000000
+      internalID: -5388157678609886012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_34
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1436
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a020c42d306fd5500800000000000000
+      internalID: 386735639297262090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_35
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1555
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38f277eb45f15da0800000000000000
+      internalID: -5957711125680031682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_36
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1580
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c3187b2c984c410800000000000000
+      internalID: 1496472445589208202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_37
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1587
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1799db94b3451ec80800000000000000
+      internalID: -8295256425022776975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_38
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1498
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0acee936ee4358e0800000000000000
+      internalID: -1705933083121890804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_39
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1535
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66a9db95d019e3a0800000000000000
+      internalID: -6635754066324904341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_40
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1498
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba07347aad587a40800000000000000
+      internalID: 5366141942687533749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_41
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1535
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b1fb5895e5162c0800000000000000
+      internalID: -4440164019021603994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_42
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1437
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796a680c7f35b8710800000000000000
+      internalID: 1696542008187201175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_43
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1468
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c501cc5e7472c56b0800000000000000
+      internalID: -5306323071197769636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_44
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1437
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a160fcd5d1914610800000000000000
+      internalID: 1603723290041409957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_45
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1468
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38c061ad58cb1380800000000000000
+      internalID: -8999379125904816067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_46
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1352
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2718fbcb059404e50800000000000000
+      internalID: 6791508849187586418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_47
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1104
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc3dbcd5ffdc0080800000000000000
+      internalID: -9219748090070876936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_48
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1352
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4564315e6ab2b10800000000000000
+      internalID: 1957841965823710391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_49
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1104
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6c877052abbb8a0800000000000000
+      internalID: -6288227786490853690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_50
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1276
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c9bd14ffa5c5350800000000000000
+      internalID: 6006776055373470752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_51
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1301
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023665edffcb15660800000000000000
+      internalID: 7372881872115098400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_52
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1276
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d1cb6016501eeb0800000000000000
+      internalID: -4692463422460388035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_53
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1301
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336fa91bd61fea670800000000000000
+      internalID: 8552038195856602675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_54
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1218
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099417339b033c670800000000000000
+      internalID: 8557737288924219792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1256
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671d5c7f9d67b0430800000000000000
+      internalID: 3750221793252987254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_56
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1218
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d720544206fa65470800000000000000
+      internalID: 8383080583856980605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_57
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1256
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745e22fe4a3871e00800000000000000
+      internalID: 1015424985405252935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_58
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1158
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016d9c4af23951100800000000000000
+      internalID: 78130401386288656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_59
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1189
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9243c94c209256790800000000000000
+      internalID: -7537573309469412311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_60
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1159
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcba63cea83602390800000000000000
+      internalID: -7845161102559761457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_61
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 835
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfd19592139bfd00800000000000000
+      internalID: 1007560649675497420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 955
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1da41c4834b48370800000000000000
+      internalID: 8323976165175110943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_63
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 979
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d546c91958c4118a0800000000000000
+      internalID: -6336199064176270243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_64
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 835
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2038664caa0723710800000000000000
+      internalID: 1671522290449679106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_65
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 955
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef645e67ec9e8f80800000000000000
+      internalID: -8102366161790537751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_66
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 979
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bcb11cd9a246070800000000000000
+      internalID: 8098644886957050739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_67
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 986
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557f835331c4063b0800000000000000
+      internalID: -5521329497775212715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_68
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 897
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137ca765345250040800000000000000
+      internalID: 4613134364454864689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_69
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 934
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8a9b11040850bf0800000000000000
+      internalID: -358739582642444103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_70
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 897
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf962748b0a37e30800000000000000
+      internalID: 4500117166001397676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_71
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 934
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68da02520da1d9da0800000000000000
+      internalID: -5936559252526027386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_72
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 836
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f89445374d33a30800000000000000
+      internalID: 4193929269812498186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_73
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 867
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d626c19801818c0800000000000000
+      internalID: -4028451685610132224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_74
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 836
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c77274612b217b80800000000000000
+      internalID: -8398884407650125880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_75
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 867
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a7cbae42cb9b080800000000000000
+      internalID: -9171092299420239245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_76
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 751
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4d53fae1c7fb0d0800000000000000
+      internalID: -3404866322038401872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_77
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 503
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72203add8923f690800000000000000
+      internalID: -7569660859451956613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_78
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 751
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24525b8afc0c6ea70800000000000000
+      internalID: 8855977715391866178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_79
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 503
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30853c2d11ab08040800000000000000
+      internalID: 4647919401159579651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_80
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 675
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c52b18844f778660800000000000000
+      internalID: 7388013646042572228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_81
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 700
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31985bec5d3c219c0800000000000000
+      internalID: -3957885799441790701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_82
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 675
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34eaa6ee08c4aa410800000000000000
+      internalID: 1489086743438863939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_83
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 700
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560c198c4225e9690800000000000000
+      internalID: -7593541603762782107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_84
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 617
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9def697e886e3d0800000000000000
+      internalID: -3177701958811199008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_85
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 655
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762cc5b7bacf242d0800000000000000
+      internalID: -3295794163842497945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_86
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 617
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae524342408f0d70800000000000000
+      internalID: 9011562401476271784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_87
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 655
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7678bd5d034be10f0800000000000000
+      internalID: -1144279133466163353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_88
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 557
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9236b80778198150800000000000000
+      internalID: 5875254088407855771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_89
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 588
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f898ae8d7a588e500800000000000000
+      internalID: 425737120731793807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_90
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 558
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede9a9125d6270360800000000000000
+      internalID: 7135714831425511134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_91
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 234
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f8d996130012da0800000000000000
+      internalID: -5971491418691236088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_92
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 353
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e67fbc39d54333f0800000000000000
+      internalID: -922316699351419166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_93
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 378
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4505f32571626cc0800000000000000
+      internalID: -3719303186512280242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_94
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 234
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982abf3b3cdf46990800000000000000
+      internalID: -7393505671255448951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_95
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 353
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f363b56e9004800800000000000000
+      internalID: 594486035790315297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_96
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 378
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f93e96819230d0a0800000000000000
+      internalID: -6858926631875102222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_97
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 385
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4aa82b84bea83f0800000000000000
+      internalID: -897646478241389327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_98
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 296
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcc84c28fd5499e0800000000000000
+      internalID: -1615563045842924304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_99
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 333
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a694ef2f8d788bda0800000000000000
+      internalID: -5928839543573821078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_100
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 296
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3ca9b12ff5d20c0800000000000000
+      internalID: -4598914151025556536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_101
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 333
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e74310d97e20ea0800000000000000
+      internalID: -5907905099640570353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_102
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 235
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea71094172d8c950800000000000000
+      internalID: 6469652248715688687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_103
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 266
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef63ae76195ee1f60800000000000000
+      internalID: 8007089600187741950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_104
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 235
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a384386aa6f061730800000000000000
+      internalID: 3969377072308242490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_105
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 266
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee49ac1d1ef51cc80800000000000000
+      internalID: -8304250814402489106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_106
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c06d0d20379d94b0800000000000000
+      internalID: -5432019342368874299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_107
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 163
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d0e1e839c33a100800000000000000
+      internalID: 118004619683958101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_108
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 0
+        width: 163
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1533c87388834140800000000000000
+      internalID: 4702752534153082141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_109
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537f7bf38d93ace60800000000000000
+      internalID: 7983256890412365621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_110
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 0
+        width: 365
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c656730b92d858e90800000000000000
+      internalID: -7024052833624824468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_111
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 74
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d0b6a89da1bc010800000000000000
+      internalID: 1210090446511607068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_112
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 99
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af8d78253a5926d0800000000000000
+      internalID: -3014779291188752471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_113
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 74
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc65026c2c5b3e670800000000000000
+      internalID: 8566890764341106383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_114
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 99
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093b05760c1e57680800000000000000
+      internalID: -8757845683868748912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_115
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 16
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70cc81c6e0942970800000000000000
+      internalID: 8729261298514968698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_116
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 54
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d25abd9eaf8aaf0800000000000000
+      internalID: -384781885820818167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_117
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 16
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036f9827e804b25b0800000000000000
+      internalID: -5392145148294859216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_118
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 54
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e855a99d04877a5b0800000000000000
+      internalID: -5357181011809905266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_119
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2578538e12c7396e0800000000000000
+      internalID: -1831984138338072750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-cartoon-miner-man-png-image_15290747_120
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7eafedae0a6ad00800000000000000
+      internalID: 983650499250808745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-cute-cartoon-miner-man-png-image_15290747_0: -2049960111329388015
+      pngtree-cute-cartoon-miner-man-png-image_15290747_1: 7721971433065791109
+      pngtree-cute-cartoon-miner-man-png-image_15290747_10: 1106688582276298999
+      pngtree-cute-cartoon-miner-man-png-image_15290747_100: -4598914151025556536
+      pngtree-cute-cartoon-miner-man-png-image_15290747_101: -5907905099640570353
+      pngtree-cute-cartoon-miner-man-png-image_15290747_102: 6469652248715688687
+      pngtree-cute-cartoon-miner-man-png-image_15290747_103: 8007089600187741950
+      pngtree-cute-cartoon-miner-man-png-image_15290747_104: 3969377072308242490
+      pngtree-cute-cartoon-miner-man-png-image_15290747_105: -8304250814402489106
+      pngtree-cute-cartoon-miner-man-png-image_15290747_106: -5432019342368874299
+      pngtree-cute-cartoon-miner-man-png-image_15290747_107: 118004619683958101
+      pngtree-cute-cartoon-miner-man-png-image_15290747_108: 4702752534153082141
+      pngtree-cute-cartoon-miner-man-png-image_15290747_109: 7983256890412365621
+      pngtree-cute-cartoon-miner-man-png-image_15290747_11: -8024087117122703331
+      pngtree-cute-cartoon-miner-man-png-image_15290747_110: -7024052833624824468
+      pngtree-cute-cartoon-miner-man-png-image_15290747_111: 1210090446511607068
+      pngtree-cute-cartoon-miner-man-png-image_15290747_112: -3014779291188752471
+      pngtree-cute-cartoon-miner-man-png-image_15290747_113: 8566890764341106383
+      pngtree-cute-cartoon-miner-man-png-image_15290747_114: -8757845683868748912
+      pngtree-cute-cartoon-miner-man-png-image_15290747_115: 8729261298514968698
+      pngtree-cute-cartoon-miner-man-png-image_15290747_116: -384781885820818167
+      pngtree-cute-cartoon-miner-man-png-image_15290747_117: -5392145148294859216
+      pngtree-cute-cartoon-miner-man-png-image_15290747_118: -5357181011809905266
+      pngtree-cute-cartoon-miner-man-png-image_15290747_119: -1831984138338072750
+      pngtree-cute-cartoon-miner-man-png-image_15290747_12: -2568294091536793413
+      pngtree-cute-cartoon-miner-man-png-image_15290747_120: 983650499250808745
+      pngtree-cute-cartoon-miner-man-png-image_15290747_13: -1821608537243091817
+      pngtree-cute-cartoon-miner-man-png-image_15290747_14: -2321232846543074458
+      pngtree-cute-cartoon-miner-man-png-image_15290747_15: 9170591699954709153
+      pngtree-cute-cartoon-miner-man-png-image_15290747_16: -4325714167774276033
+      pngtree-cute-cartoon-miner-man-png-image_15290747_17: 3632623871281992069
+      pngtree-cute-cartoon-miner-man-png-image_15290747_18: -6634572275811069980
+      pngtree-cute-cartoon-miner-man-png-image_15290747_19: 560434506082332077
+      pngtree-cute-cartoon-miner-man-png-image_15290747_2: 599702734445905212
+      pngtree-cute-cartoon-miner-man-png-image_15290747_20: 7421272786659223560
+      pngtree-cute-cartoon-miner-man-png-image_15290747_21: 6629128196170753689
+      pngtree-cute-cartoon-miner-man-png-image_15290747_22: 4659470907240552388
+      pngtree-cute-cartoon-miner-man-png-image_15290747_23: -2599900125567496936
+      pngtree-cute-cartoon-miner-man-png-image_15290747_24: 2167792731046281113
+      pngtree-cute-cartoon-miner-man-png-image_15290747_25: 7444797870875647334
+      pngtree-cute-cartoon-miner-man-png-image_15290747_26: -4371600631625306912
+      pngtree-cute-cartoon-miner-man-png-image_15290747_27: -4764514265959186071
+      pngtree-cute-cartoon-miner-man-png-image_15290747_28: -3723096515012045785
+      pngtree-cute-cartoon-miner-man-png-image_15290747_29: 2612994487761641848
+      pngtree-cute-cartoon-miner-man-png-image_15290747_3: 4143990198657264257
+      pngtree-cute-cartoon-miner-man-png-image_15290747_30: 5249994740602817194
+      pngtree-cute-cartoon-miner-man-png-image_15290747_31: 1401926191842401836
+      pngtree-cute-cartoon-miner-man-png-image_15290747_32: -8129132540573290782
+      pngtree-cute-cartoon-miner-man-png-image_15290747_33: -5388157678609886012
+      pngtree-cute-cartoon-miner-man-png-image_15290747_34: 386735639297262090
+      pngtree-cute-cartoon-miner-man-png-image_15290747_35: -5957711125680031682
+      pngtree-cute-cartoon-miner-man-png-image_15290747_36: 1496472445589208202
+      pngtree-cute-cartoon-miner-man-png-image_15290747_37: -8295256425022776975
+      pngtree-cute-cartoon-miner-man-png-image_15290747_38: -1705933083121890804
+      pngtree-cute-cartoon-miner-man-png-image_15290747_39: -6635754066324904341
+      pngtree-cute-cartoon-miner-man-png-image_15290747_4: -7988943267531327240
+      pngtree-cute-cartoon-miner-man-png-image_15290747_40: 5366141942687533749
+      pngtree-cute-cartoon-miner-man-png-image_15290747_41: -4440164019021603994
+      pngtree-cute-cartoon-miner-man-png-image_15290747_42: 1696542008187201175
+      pngtree-cute-cartoon-miner-man-png-image_15290747_43: -5306323071197769636
+      pngtree-cute-cartoon-miner-man-png-image_15290747_44: 1603723290041409957
+      pngtree-cute-cartoon-miner-man-png-image_15290747_45: -8999379125904816067
+      pngtree-cute-cartoon-miner-man-png-image_15290747_46: 6791508849187586418
+      pngtree-cute-cartoon-miner-man-png-image_15290747_47: -9219748090070876936
+      pngtree-cute-cartoon-miner-man-png-image_15290747_48: 1957841965823710391
+      pngtree-cute-cartoon-miner-man-png-image_15290747_49: -6288227786490853690
+      pngtree-cute-cartoon-miner-man-png-image_15290747_5: -3385629388629276436
+      pngtree-cute-cartoon-miner-man-png-image_15290747_50: 6006776055373470752
+      pngtree-cute-cartoon-miner-man-png-image_15290747_51: 7372881872115098400
+      pngtree-cute-cartoon-miner-man-png-image_15290747_52: -4692463422460388035
+      pngtree-cute-cartoon-miner-man-png-image_15290747_53: 8552038195856602675
+      pngtree-cute-cartoon-miner-man-png-image_15290747_54: 8557737288924219792
+      pngtree-cute-cartoon-miner-man-png-image_15290747_55: 3750221793252987254
+      pngtree-cute-cartoon-miner-man-png-image_15290747_56: 8383080583856980605
+      pngtree-cute-cartoon-miner-man-png-image_15290747_57: 1015424985405252935
+      pngtree-cute-cartoon-miner-man-png-image_15290747_58: 78130401386288656
+      pngtree-cute-cartoon-miner-man-png-image_15290747_59: -7537573309469412311
+      pngtree-cute-cartoon-miner-man-png-image_15290747_6: -7569384201093299134
+      pngtree-cute-cartoon-miner-man-png-image_15290747_60: -7845161102559761457
+      pngtree-cute-cartoon-miner-man-png-image_15290747_61: 1007560649675497420
+      pngtree-cute-cartoon-miner-man-png-image_15290747_62: 8323976165175110943
+      pngtree-cute-cartoon-miner-man-png-image_15290747_63: -6336199064176270243
+      pngtree-cute-cartoon-miner-man-png-image_15290747_64: 1671522290449679106
+      pngtree-cute-cartoon-miner-man-png-image_15290747_65: -8102366161790537751
+      pngtree-cute-cartoon-miner-man-png-image_15290747_66: 8098644886957050739
+      pngtree-cute-cartoon-miner-man-png-image_15290747_67: -5521329497775212715
+      pngtree-cute-cartoon-miner-man-png-image_15290747_68: 4613134364454864689
+      pngtree-cute-cartoon-miner-man-png-image_15290747_69: -358739582642444103
+      pngtree-cute-cartoon-miner-man-png-image_15290747_7: -597330110462121571
+      pngtree-cute-cartoon-miner-man-png-image_15290747_70: 4500117166001397676
+      pngtree-cute-cartoon-miner-man-png-image_15290747_71: -5936559252526027386
+      pngtree-cute-cartoon-miner-man-png-image_15290747_72: 4193929269812498186
+      pngtree-cute-cartoon-miner-man-png-image_15290747_73: -4028451685610132224
+      pngtree-cute-cartoon-miner-man-png-image_15290747_74: -8398884407650125880
+      pngtree-cute-cartoon-miner-man-png-image_15290747_75: -9171092299420239245
+      pngtree-cute-cartoon-miner-man-png-image_15290747_76: -3404866322038401872
+      pngtree-cute-cartoon-miner-man-png-image_15290747_77: -7569660859451956613
+      pngtree-cute-cartoon-miner-man-png-image_15290747_78: 8855977715391866178
+      pngtree-cute-cartoon-miner-man-png-image_15290747_79: 4647919401159579651
+      pngtree-cute-cartoon-miner-man-png-image_15290747_8: -8671204174533644016
+      pngtree-cute-cartoon-miner-man-png-image_15290747_80: 7388013646042572228
+      pngtree-cute-cartoon-miner-man-png-image_15290747_81: -3957885799441790701
+      pngtree-cute-cartoon-miner-man-png-image_15290747_82: 1489086743438863939
+      pngtree-cute-cartoon-miner-man-png-image_15290747_83: -7593541603762782107
+      pngtree-cute-cartoon-miner-man-png-image_15290747_84: -3177701958811199008
+      pngtree-cute-cartoon-miner-man-png-image_15290747_85: -3295794163842497945
+      pngtree-cute-cartoon-miner-man-png-image_15290747_86: 9011562401476271784
+      pngtree-cute-cartoon-miner-man-png-image_15290747_87: -1144279133466163353
+      pngtree-cute-cartoon-miner-man-png-image_15290747_88: 5875254088407855771
+      pngtree-cute-cartoon-miner-man-png-image_15290747_89: 425737120731793807
+      pngtree-cute-cartoon-miner-man-png-image_15290747_9: -2189203050876276605
+      pngtree-cute-cartoon-miner-man-png-image_15290747_90: 7135714831425511134
+      pngtree-cute-cartoon-miner-man-png-image_15290747_91: -5971491418691236088
+      pngtree-cute-cartoon-miner-man-png-image_15290747_92: -922316699351419166
+      pngtree-cute-cartoon-miner-man-png-image_15290747_93: -3719303186512280242
+      pngtree-cute-cartoon-miner-man-png-image_15290747_94: -7393505671255448951
+      pngtree-cute-cartoon-miner-man-png-image_15290747_95: 594486035790315297
+      pngtree-cute-cartoon-miner-man-png-image_15290747_96: -6858926631875102222
+      pngtree-cute-cartoon-miner-man-png-image_15290747_97: -897646478241389327
+      pngtree-cute-cartoon-miner-man-png-image_15290747_98: -1615563045842924304
+      pngtree-cute-cartoon-miner-man-png-image_15290747_99: -5928839543573821078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

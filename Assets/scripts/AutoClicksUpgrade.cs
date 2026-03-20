@@ -2,15 +2,17 @@ using UnityEngine;
 
 public class AutoClicksUpgrade : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    bool hasUpgrade;
+    public int Gem;
+    public TMPro.TextMeshProUGUI Gem_text;
+    public int AutoClicksPerSecond;
+    public int AutoClickUpgrade;
+    public TMPro.TextMeshProUGUI AutoClickUpgrade_text;
+    private void Update()
     {
-        
-    }
+        hasUpgrade = true;
+       Gem += (int)(AutoClicksPerSecond * Time.deltaTime);
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        Gem_text.text = Gem.ToString("0");
     }
 }

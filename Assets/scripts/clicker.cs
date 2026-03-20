@@ -8,17 +8,17 @@ public class clicker : MonoBehaviour
     public TMPro.TextMeshProUGUI text;
     public int Gem;
     public GameObject GemCounter;
-
-   
-   public void click() 
+    public int Upgrade;
+    public GameObject HowManyPickaxes;
+    public void click() 
    {
-        Gem += 1;
+        Gem +=1;
         text.text = Gem.ToString();
 
         GemCounter.GetComponent<SHOP>().GemUpdate(Gem);
 
+        HowManyPickaxes.GetComponent<SHOP>().UpgradeUpdate(Upgrade);
+        Gem +=1 + Upgrade;
 
    }
-
-   
 }
